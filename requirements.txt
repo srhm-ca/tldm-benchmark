@@ -1,0 +1,6 @@
+tqdm
+pandas
+huggingface_hub
+sentence_transformers
+openai
+numpy
