@@ -1,4 +1,4 @@
-# Too Long; Didn't Model (TLDM) Benchmark.
+# Too Long, Didn't Model (TLDM) Benchmark.
 
 TLDM is a large language model (LLM) benchmark for testing long-context understanding drop-off rates — at what point a LLM's understanding of a long-form integrated document begins to degrade. 
 
